@@ -6,7 +6,7 @@ description: |
 
 I am a biologist interested in studying tropical forests using remote sensing, mainly multispectral and radar images, as well as LiDAR point clouds. My research includes identifying forest's structure and diversity patterns, evaluating the use of remote sensing information to model these attributes and monitor land cover / land use change. My current PhD project is about using Sentinel-1 and -2 imagery with Deep Learning algorithms to obtain land cover / land use classifications and detect deforested and degradaded areas in tropical forests in Mexico.
 
-I believe that the use of open programming languages such as R or Python, free software such as QGIS and other freely available cloud computing tools such as Google Earth Engine, help in making analyses easily reproducible. Thus, most of my work make use of these tools.
+I believe that the use of open programming languages such as R or Python, free software such as QGIS and other freely available cloud computing tools such as Google Earth Engine, helps in making analyses easily reproducible. Thus, most of my work makes use of these tools.
 
 My publications can be consulted in any of the following links:
 
