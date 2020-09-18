@@ -1,0 +1,22 @@
+name: "Distill_webpage"
+title: "My Website"
+base_url: https://github.com/JonathanVSV/JonathanVSV.github.io
+description: |
+  My Website
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Courses"
+      href: Courses.html
+    - text: "Mini-packages"
+      href: Mini-packages.html
+    - text: "GEE"
+      href: GEE.html
+
+output:
+  distill::distill_article:
+    css: styles.css

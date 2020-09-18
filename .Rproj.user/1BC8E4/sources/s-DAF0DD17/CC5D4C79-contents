@@ -1,0 +1,18 @@
+---
+title: "Courses"
+description: |
+  Courses using R in Spanish
+site: distill::distill_website
+---
+
+I made some basic courses to learn R and to use it to perform image processing and analysis. All the courses are in Spanish.
+
+* [Curso básico de R](files/BasicoR.html)
+
+* [Pruebas estadísticas en R](files/PruebEstad.html)
+
+* [Manejo de imágenes en R](files/Man.html)
+
+* [Clasificación de imágenes en R](files/Class.html)
+
+* [QGIS](https://github.com/JonathanVSV/CursoQGIS)
