@@ -7,9 +7,5 @@ site: distill::distill_website
 
 In this site you can find more information about my work.
 
-| **Tropical Forests** | **Plant Ecology** | **Remote Sensing** | 
-
-**Land cover / land use change** |
-
 
 
