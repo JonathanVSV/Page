@@ -19,7 +19,7 @@ I added some figures about my work, that can give a better idea of my research i
 knitr::include_graphics("images/CuencaUsumacinta.jpg")
 ```
 
-```{r fig.cap="Goodness-of-fit of the best models (black point) and its corresponding maximum goodness-of-fit distribution expected at random (boxes) for each tropical dry forest attribute (structural and diversity). Models were constructed using GLCM texture metrics calculated from multispectral bands (MS) and panchromatic (Pan) as explanatory variables. Figure from Solórzano et al. (2017)."}
+```{r fig.cap="Goodness-of-fit of the best models (black points) and its corresponding maximum goodness-of-fit distribution expected at random (boxes) for each tropical dry forest attribute (structural and diversity). Models were constructed using GLCM texture metrics calculated from multispectral bands (MS) and panchromatic (Pan) as explanatory variables. Figure from Solórzano et al. (2017)."}
 knitr::include_graphics("images/ModelsvsRandom.png")
 ```
 
@@ -27,7 +27,7 @@ knitr::include_graphics("images/ModelsvsRandom.png")
 knitr::include_graphics("images/FOTO_GLCMmodels.jpeg")
 ```
 
-```{r fig.cap="RDA ordination showing the scores of the species abundance (gray letters), plots (black numbers) and environmental proxies (black letters) according to the RDA first two principal axes; although, the second axis was not significant. Environmental proxies included distance to water bodies and microtopography variables Figure from Solórzano et al. (2020)."}
+```{r fig.cap="RDA ordination showing the scores of the species abundance (gray letters), plots (black numbers) and environmental proxies (black letters) according to the RDA first two principal axes; although, the second axis was not significant. Environmental proxies included distance to water bodies and microtopography variables. Figure from Solórzano et al. (2020)."}
 knitr::include_graphics("images/RDA_DendrogramCometa.jpg")
 ```
 
@@ -36,7 +36,7 @@ knitr::include_graphics("images/Deforestation_GFCSerieINEGI.jpeg")
 ```
 
 
-```{r echo = FALSE, message=FALSE, fig.cap="Number of available Landsat (4-8) images by path (upper border) and row (right border) of Mexico's surface between 1972 - 2017. Additionally, the percentage of images by cloud cover percentage is shwon by the bar color. Figure from Solórzano et al. (2020)."}
+```{r echo = FALSE, message=FALSE, fig.cap="Number of available Landsat (4-8) images by path (upper border) and row (right border) of Mexico's surface between 1972 - 2017. Additionally, the percentage of images by cloud cover percentage is shown by the bar color. Figure from Solórzano et al. (2020)."}
 knitr::include_graphics("images/LandsatMX.jpg")
 ```
 
