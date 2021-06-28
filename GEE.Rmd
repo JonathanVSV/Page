@@ -7,7 +7,7 @@ description: |
 
 I am currently working on a collaborative Google Earth Manual in Spanish, which can consulted in the following repository:
 
-* [Manual de Google Earth Engine](https://github.com/JonathanVSV/GEE_manual)
+* [Manual de Google Earth Engine](https://jonathanvsv.github.io/GEE_manual/)
 
 I have made some Google Earth Engine scripts that can be used to perform cloudless annual mosaics using Landsat 4, 5, 7 and 8 surface reflectance collections, or obtain the number of cloudless observations per pixel using Sentinel-2 images.
 
