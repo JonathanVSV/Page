@@ -15,27 +15,27 @@ My publications can be consulted in any of the following links:
 
 I made a simple wordcloud plot to show the most frequent terms in my publications to give a better idea of my research interests. Also, I added some figures to show examples of the research I have done.
 
-```{r layout="wordcloud", fig.cap="Word cloud analysis of my publications."}
+```{r echo = FALSE, layout="wordcloud", fig.cap="Word cloud analysis of my publications."}
 knitr::include_graphics("images/wordcloud.png")
 ```
 
-```{r layout="l-body", fig.cap="Cloudless MODIS composite (2015 - 2017) of the Usumacinta basin and surrounding areas. Figure was made in collaboration with C. Peralta-Carreta and can be seen in the Museo de Historia Natural, CDMX, Mexico."}
+```{r echo = FALSE, layout="l-body", fig.cap="Cloudless MODIS composite (2015 - 2017) of the Usumacinta basin and surrounding areas. Figure was made in collaboration with C. Peralta-Carreta and can be seen in the Museo de Historia Natural, CDMX, Mexico."}
 knitr::include_graphics("images/CuencaUsumacinta.jpg")
 ```
 
-```{r fig.cap="Goodness-of-fit of the best models (black points) and its corresponding maximum goodness-of-fit distribution expected at random (boxes) for each tropical dry forest attribute (structural and diversity). Models were constructed using GLCM texture metrics calculated from multispectral bands (MS) and panchromatic (Pan) as explanatory variables. Figure from Solórzano et al. (2017)."}
+```{r echo = FALSE, fig.cap="Goodness-of-fit of the best models (black points) and its corresponding maximum goodness-of-fit distribution expected at random (boxes) for each tropical dry forest attribute (structural and diversity). Models were constructed using GLCM texture metrics calculated from multispectral bands (MS) and panchromatic (Pan) as explanatory variables. Figure from Solórzano et al. (2017)."}
 knitr::include_graphics("images/ModelsvsRandom.png")
 ```
 
-```{r fig.cap="Observed versus modeled values and its corresponding linear fit (dashed line) of the best model for each vegetation attribute (ln-transformed) of a Tropical Swamp Forest. Models were fitted using image GLCM texture metric as explanatory variables. Figure from Solórzano et al. (2018)."}
+```{r echo = FALSE, fig.cap="Observed versus modeled values and its corresponding linear fit (dashed line) of the best model for each vegetation attribute (ln-transformed) of a Tropical Swamp Forest. Models were fitted using image GLCM texture metric as explanatory variables. Figure from Solórzano et al. (2018)."}
 knitr::include_graphics("images/FOTO_GLCMmodels.jpeg")
 ```
 
-```{r fig.cap="RDA ordination showing the scores of the species abundance (gray letters), plots (black numbers) and environmental proxies (black letters) according to the RDA first two principal axes; although, the second axis was not significant. Environmental proxies included distance to water bodies and microtopography variables. Figure from Solórzano et al. (2020)."}
+```{r echo = FALSE, fig.cap="RDA ordination showing the scores of the species abundance (gray letters), plots (black numbers) and environmental proxies (black letters) according to the RDA first two principal axes; although, the second axis was not significant. Environmental proxies included distance to water bodies and microtopography variables. Figure from Solórzano et al. (2020)."}
 knitr::include_graphics("images/RDA_DendrogramCometa.jpg")
 ```
 
-```{r fig.cap="Tree cover area lost between 2000 and 2016 according to the Global Forest Change data in the Usumacinta River basin. Data are grouped by land cover / land use (Serie II, INEGI 2001) and part of the basin (low, mid, high). Figure from Peralta-Carreta et al. (2019)."}
+```{r echo = FALSE, fig.cap="Tree cover area lost between 2000 and 2016 according to the Global Forest Change data in the Usumacinta River basin. Data are grouped by land cover / land use (Serie II, INEGI 2001) and part of the basin (low, mid, high). Figure from Peralta-Carreta et al. (2019)."}
 knitr::include_graphics("images/Deforestation_GFCSerieINEGI.jpeg")
 ```
 
