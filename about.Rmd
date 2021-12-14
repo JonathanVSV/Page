@@ -13,7 +13,7 @@ My publications can be consulted in any of the following links:
 [**ResearchGate**](https://www.researchgate.net/profile/Jonathan_Solorzano3)  | 
 [**Orcid**](https://orcid.org/0000-0001-6422-4802)  |   [**GoogleScholar**](https://scholar.google.com/citations?user=sXi9pZMAAAAJ&hl=en)
 
-I made a simple wordcloud plot to show the most frequent terms in my publications to give a better idea of my research interests. Also, I added some figures to show examples of the research I have done.
+I made a simple wordcloud plot of the most frequent terms in my publications to give a better idea of my research interests. Also, I added some figures to show examples of the research I have done.
 
 ```{r echo = FALSE, layout="wordcloud", fig.cap="Word cloud analysis of my publications."}
 knitr::include_graphics("images/wordcloud.png")
