@@ -22,7 +22,7 @@
       "description": "Scripts for GEE",
       "author": [],
       "contents": "\r\nI am currently working on a collaborative Google Earth Manual in Spanish, which can consulted in the following repository:\r\nManual de Google Earth Engine\r\nI have made some Google Earth Engine scripts that can be used to perform cloudless annual mosaics using Landsat 4, 5, 7 and 8 surface reflectance collections, or obtain the number of cloudless observations per pixel using Sentinel-2 images.\r\nCloudlessMosaics\r\nPerPixelSentinel-2Obs\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-12-14T14:56:34-06:00"
+      "last_modified": "2021-12-15T16:33:08-06:00"
     },
     {
       "path": "index.html",
